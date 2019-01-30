@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## HBase from Scratch
 
-You can use the [editor on GitHub](https://github.com/netxillon/netxillon.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The intent of this github io is to capture the HBase architecture, Use cases, Rowkey design, Troubleshooting and Performance Optimizations.
 
 ### Markdown
 
